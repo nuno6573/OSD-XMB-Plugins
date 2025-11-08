@@ -6,12 +6,14 @@ For plugins designated root of USB, user needs specific files and folders in USB
 please extract to root of USB.
 
 
+
 Spanish
 
 Colección de plugins para OSD_XMB de Hiro Tex.
 Descomprima el archivo en la carpeta OSDXMB, respetando los nombres de los archivos y carpetas.
 Para los plugins que se instalan en la raíz de la unidad USB, se requieren archivos y carpetas específicos (incluidos en el archivo 7z) para su funcionamiento.
 Extraiga el contenido a la raíz de la unidad USB.
+
 
 
 Portuguese
