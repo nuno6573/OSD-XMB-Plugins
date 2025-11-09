@@ -1,3 +1,5 @@
+# OSD-XMB-Plugins
+
 English:
 
 Collection of Plugins for OSD_XMB from Hiro Tex.
