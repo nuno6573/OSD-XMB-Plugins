@@ -16,7 +16,7 @@ Extraiga el contenido a la raíz de la unidad USB.
 
 Portuguese:
 
-Coleção de plugins para OSD_XMB da Hiro Tex.
+Coleção de plugins para OSD_XMB de Hiro Tex.
 Descompacte para a pasta OSDXMB, respeitando os nomes dos ficheiros e pastas.
 Para plugins designados para a raiz USB, o utilizador necessita de ficheiros e pastas específicos na unidade USB (fornecidos no ficheiro 7z) para que funcionem, 
 extrair para a raiz do USB.
